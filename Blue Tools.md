@@ -1,6 +1,6 @@
-#### Blue Team Tools
+### Blue Team Tools
 
-### Threat Tools
+#### Threat Tools
 
 - Talos Intelligence Search - https://talosintelligence.com/reputation_center
 
@@ -9,7 +9,7 @@
 
 
 
-### Malware Analysis Tools
+#### Malware Analysis Tools
 
 - [App.Any.Run](https://app.any.run)
 
@@ -21,19 +21,19 @@
 
 - VirusTotal - https://www.virustotal.com
 
-### Network Analysis Tools
+#### Network Analysis Tools
 
 - Arkime - https://arkime.com/
 
 - Wireshark - https://www.wireshark.org/
 
-### Network Mapping Tools
+#### Network Mapping Tools
 
 - NMap - https://nmap.org/
 
 - 
 
-### SIEM
+#### SIEM
 
 - Elastic, Kibana, Logstash - https://www.elastic.co/elastic-stack
 
