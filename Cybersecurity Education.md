@@ -1,18 +1,18 @@
 ### Cybersecurity Training
 
-#### `Websites`
+#### Websites
 
-- BlueTeamLabs - https://blueteamlabs.online/
+- [BlueTeamLabs](https://blueteamlabs.online/) - 
 
-- CyberDefender - https://cyberdefenders.org/
+- [CyberDefender](https://cyberdefenders.org/) - 
 
-- Hack The Box - https://www.hackthebox.com/
+- [HackTheBox](https://www.hackthebox.com/) - 
   
-- LetsDefend - https://letsdefend.io/
+- [LetsDefend](https://letsdefend.io/) - 
 
-- TryHackMe - https://tryhackme.com/
+- [TryHackMe](https://tryhackme.com/) - 
 
 
-#### `Books`
+#### Books
 
 - 
