@@ -15,8 +15,10 @@ Hacker News - https://thehackernews.com/
 
 Security Week - https://www.securityweek.com/category/threat-intelligence/
 
+
 #### `Alerts and Advisories`
 CISA - https://www.cisa.gov/news-events/cybersecurity-advisories
+
 
 #### `Paid Services`
 Feedly - https://feedly.com/
