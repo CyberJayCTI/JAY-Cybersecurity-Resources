@@ -2,7 +2,7 @@
 
 *The materials in this repository are for informational and educational purposes only. They are not intended for use in any illegal activities.*
 
-#### Table of Content
+### Table of Content
 
 - [APTs](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/095fefc25be31a88738dfa646068ea781929adee/APTs.md)
 
