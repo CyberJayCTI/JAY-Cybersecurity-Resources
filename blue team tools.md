@@ -16,8 +16,6 @@
 
 - [App.Any.Run](https://app.any.run) - Interactive malware analysis platform that lets users safely run, observe, and analyze suspicious files and URLs in a controlled virtual environment.
 
-idence.
-
 - [Ghidra](https://ghidra-sre.org/) -   
 
 - [VirusTotal](https://www.virustotal.com) -
