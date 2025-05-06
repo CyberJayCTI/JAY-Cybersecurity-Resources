@@ -1,5 +1,7 @@
 ### Threat Tools
 
+- Talos Intelligence Search - https://talosintelligence.com/reputation_center
+
 - Zscaler - https://threatlibrary.zscaler.com/
 
 
