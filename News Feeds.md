@@ -1,6 +1,6 @@
 ### CTI News Feeds
 
-#### `Good websites`
+#### `Free websites`
 Bleeping Computer - https://www.bleepingcomputer.com/
 
 CVE News - https://www.cve.org/Media/News/AllNews
@@ -18,3 +18,5 @@ Security Week - https://www.securityweek.com/category/threat-intelligence/
 #### `Alerts and Advisories`
 CISA - https://www.cisa.gov/news-events/cybersecurity-advisories
 
+#### `Paid Services`
+Feedly - https://feedly.com/
