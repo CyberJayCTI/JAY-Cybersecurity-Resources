@@ -1,6 +1,6 @@
 ## Cybersecurity Resources
 
-**Warning:** *The materials in this repository are for informational and educational purposes only. They are not intended for use in any illegal activities.*
+**Warning:** *The materials in this repository are for informational and educational purposes **only**.*
 
 ### Table of Content
 
