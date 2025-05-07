@@ -7,6 +7,8 @@
 
 - [Blue Team Labs](https://blueteamlabs.online/) - A gamified platform for defenders to practice their skills including; Incident Response, Digital Forensics, and Threat Hunting.
 
+- [CBT Nuggets](https://www.cbtnuggets.com/) - On-demand IT training videos for certifications and skill growth with their online labs. 
+
 - [Cyber Defender](https://cyberdefenders.org/) - Blue team training platform for SOC analysts, threat hunters, security blue teams and DFIR professionals to advance CyberDefense skills.
 
 - [Hack The Box](https://www.hackthebox.com/) - Online platform that provides cybersecurity enthusiasts and professionals with virtual labs and challenges to practice penetration testing and ethical hacking skills in a safe, gamified environment.
@@ -22,10 +24,6 @@
 - [BTFM - Blue Team Field Manual](https://a.co/d/1I7gxKe) - Blue team commands and techniques. Release 2017.
 
 - [RTFM - Red Team Field Manual v2](https://a.co/d/cSgfB8Q) - Red team commands and techniques. Release 2022.
-
-#### Websites
-
-- [CBT Nuggets](https://www.cbtnuggets.com/) - IT Training
 
 #### Youtube
 
