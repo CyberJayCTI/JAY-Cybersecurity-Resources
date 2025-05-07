@@ -16,6 +16,6 @@
 
 #### Books
 
-- [Blue Team Field Manual](https://a.co/d/1I7gxKe) - Blue team commands and techniques. Release 2017.
+- [BTFM - Blue Team Field Manual](https://a.co/d/1I7gxKe) - Blue team commands and techniques. Release 2017.
 
 - [RTFM - Red Team Field Manual v2](https://a.co/d/cSgfB8Q) - Red team commands and techniques. Release 2022.
