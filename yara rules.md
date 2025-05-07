@@ -1,7 +1,10 @@
 ### YARA RULES
 
-McAfee YARA rules - https://github.com/advanced-threat-research/Yara-Rules
+- [McAfee YARA Rules](https://github.com/advanced-threat-research/Yara-Rules) - 
 
-VirusTotal YARA - https://github.com/VirusTotal/yara
+- [Signature Based Yara Rules](https://github.com/Neo23x0/signature-base/tree/master) - Github repository filled with many different yara rules. 
 
-YARA scan - https://riskmitigation.ch/yara-scan/
+- [VirusTotal YARA](https://github.com/VirusTotal/yara) - 
+
+- [YARA Scan](https://riskmitigation.ch/yara-scan/) -
+ 
