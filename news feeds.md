@@ -1,6 +1,6 @@
 ### Cybersecurity News Feeds
 
-#### `Free websites`
+#### Free websites
 - Bleeping Computer - https://www.bleepingcomputer.com/
 
 - CVE News - https://www.cve.org/Media/News/AllNews/
@@ -20,9 +20,9 @@
 - Security Week - https://www.securityweek.com/category/threat-intelligence/
 
 
-#### `Alerts and Advisories`
+#### Alerts and Advisories
 - CISA - https://www.cisa.gov/news-events/cybersecurity-advisories/
 
 
-#### `Paid Services`
+#### Paid Services
 - Feedly - https://feedly.com/threat-intelligence/
