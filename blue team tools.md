@@ -6,7 +6,9 @@
 
 - [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) -  Forensic tool used to create exact copies (forensic images) of data from storage devices and preview their contents without altering the original evidence.
 
-##### Digital Forensics and Incident Respone \(DFIR) Tools
+  ##### Digital Forensics and Incident Respone \(DFIR) Tools
+
+    - [Velociraptor](https://docs.velociraptor.app/) - Enables endpoint monitoring, incident response, and forensics by collecting and analyzing data from endpoints in real time.
 
 #### Threat Tools
 
