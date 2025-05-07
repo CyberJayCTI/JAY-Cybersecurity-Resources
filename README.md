@@ -12,6 +12,8 @@
 
 - [News Feeds](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/5c7a65c5ae366ade0abe622944855b2f18e896c4/News%20Feeds.md)
 
+- [OS](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/37765d98250b372c13f675ea3d25f1f74d9663a7/os)
+
 - [Red Team Tools](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/5c7a65c5ae366ade0abe622944855b2f18e896c4/Red%20Team%20Tools.md)
 
 - [Scripts](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/5c7a65c5ae366ade0abe622944855b2f18e896c4/Scripts.md)
