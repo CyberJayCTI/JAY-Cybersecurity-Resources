@@ -15,3 +15,7 @@
 - [Try Hack Me](https://tryhackme.com/) - Online cybersecurity training platform that offers interactive, beginner-friendly to advanced courses and virtual labs to help users learn ethical hacking and cybersecurity skills through hands-on challenges.
 
 #### Books
+
+- [Blue Team Field Manual](https://a.co/d/1I7gxKe) - Blue team commands and techniques. Release 2017.
+
+- [RTFM - Red Team Field Manual v2](https://a.co/d/cSgfB8Q) - Red team commands and techniques. Release 2022.
