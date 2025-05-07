@@ -6,36 +6,34 @@
 
 - [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) -  Forensic tool used to create exact copies (forensic images) of data from storage devices and preview their contents without altering the original evidence.
 
+##### Digital Forensics and Incident Respone \(DFIR) Tools
+
 #### Threat Tools
 
 - [Talos Intelligence Search](https://talosintelligence.com/reputation_center) - Cisco Talos reputation center to check IPs, Domains, URLs, File Hashes
 
-- [Zscaler](https://threatlabz.zscaler.com/threat-library) - 
+- [Zscaler](https://threatlabz.zscaler.com/threat-library) - A database that identifies and categorizes cyber threats to help detect, analyze, and block malicious activity across Zscaler's security platform.
 
 #### Malware Analysis Tools
 
 - [App.Any.Run](https://app.any.run) - Interactive malware analysis platform that lets users safely run, observe, and analyze suspicious files and URLs in a controlled virtual environment.
 
-- [Ghidra](https://ghidra-sre.org/) -   
+- [Ghidra](https://ghidra-sre.org/) - Reverse engineering tool that analyzes compiled software to help users understand its underlying code, structure, and behavior.
 
-- [VirusTotal](https://www.virustotal.com) -
+- [VirusTotal](https://www.virustotal.com) - Online service that analyzes files and URLs for viruses, malware, and other threats using multiple antivirus engines and security tools.
 
 #### Network Analysis Tools
 
-- [Arkime](https://arkime.com/) - 
+- [Arkime](https://arkime.com/) - Captures, indexes, and analyzes network traffic to help security teams investigate and monitor network activity.
 
-- [Wireshark](https://www.wireshark.org/) - 
+- [Wireshark](https://www.wireshark.org/) - Network protocol analyzer that captures and displays network traffic in real time, allowing users to inspect and troubleshoot network communications in detail.
 
 #### Network Mapping Tools
 
-- [NMap](https://nmap.org/) - 
-
-- 
+- [NMap](https://nmap.org/) - Network scanning tool that discovers hosts and services on a network by sending packets and analyzing the responses to assess security and network inventory.
 
 #### SIEM
 
-- [ELK](https://www.elastic.co/elastic-stack) - 
+- [ELK](https://www.elastic.co/elastic-stack) - ELK Stack—Elasticsearch, Logstash, and Kibana—is a set of tools used to collect, process, search, and visualize log and event data in real time for monitoring and analysis.
 
-- [Splunk](https://www.splunk.com/) - 
-
-- 
+- [Splunk](https://www.splunk.com/) - Data platform that collects, indexes, and analyzes machine-generated data to provide real-time insights for IT operations, security, and business intelligence.
