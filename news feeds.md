@@ -1,11 +1,11 @@
 ### Cybersecurity News Feeds
 
 #### Free websites
-- [Bleeping Computer](https://www.bleepingcomputer.com/) - Cybersecurity, Technology News and Support
+- [Bleeping Computer](https://www.bleepingcomputer.com/) - Cybersecurity, Technology News and Support.
 
 - [CVE News](https://www.cve.org/Media/News/AllNews/) - Publicly known information security vulnerabilites and exposures.
 
-- [Cyber News](https://cybernews.com/news/) - Cybersecurity News Today
+- [Cyber News](https://cybernews.com/news/) - Cybersecurity News Today.
 
 - [Cyber Security News](https://cybersecuritynews.com/) - Cyber news, cyber attack news, hacking news, and vulnerability analysis.
 
@@ -27,8 +27,10 @@
 
 
 #### Paid Services
-- [Feedly](https://feedly.com/threat-intelligence/) - Topic and trend tracker using AI \(paid version)
+- [Feedly](https://feedly.com/threat-intelligence/) - Topic and trend tracker using AI \(paid version).
   
 
 #### Youtube
-- [SimplyCyber](https://www.youtube.com/@SimplyCyber) - Daily cybersecurity podcast and training sessions
+- [CISO Series](https://www.youtube.com/@CISOSeries) - Daily cybersecurity headlines news and cybersecurity podcasts.
+
+- [SimplyCyber](https://www.youtube.com/@SimplyCyber) - Daily cybersecurity podcast and training sessions.
