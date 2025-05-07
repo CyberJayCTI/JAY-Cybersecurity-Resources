@@ -13,3 +13,12 @@
 
 #### Infastructure OS
 - [RedHat Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) - A stable, high-performance Linux platform with built-in security and management features to help you run critical workloads anywhere in the hybrid cloud.
+
+#### Other
+- [Docker](https://www.docker.com/)
+
+- [Kubernetes](https://kubernetes.io/)
+
+- [VirtualBox](https://www.virtualbox.org/)
+
+- [VMware](https://www.vmware.com/)
