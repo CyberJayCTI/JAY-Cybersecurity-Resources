@@ -1,4 +1,4 @@
-### CTI News Feeds
+### Cybersecurity News Feeds
 
 #### `Free websites`
 - Bleeping Computer - https://www.bleepingcomputer.com/
