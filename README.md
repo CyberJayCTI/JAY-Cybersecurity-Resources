@@ -10,6 +10,8 @@
 
 - [Cybersecurity Education](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/5c7a65c5ae366ade0abe622944855b2f18e896c4/Cybersecurity%20Education.md)
 
+- [Detection Rules](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/892c3d0d6761b367323129232726610a169facbf/detection%20rules.md) 
+
 - [Documentation](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/3c2d3611479fcbe46ebac61f9789a2c5475fb3ff/documentation.md) 
 
 - [News Feeds](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/5c7a65c5ae366ade0abe622944855b2f18e896c4/News%20Feeds.md)
@@ -19,5 +21,3 @@
 - [Red Team Tools](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/5c7a65c5ae366ade0abe622944855b2f18e896c4/Red%20Team%20Tools.md)
 
 - [Scripts](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/5c7a65c5ae366ade0abe622944855b2f18e896c4/Scripts.md)
-
-- [YARA Rules](https://github.com/CyberJayCTI/CTI-JAY-Cyber-Resources/blob/5c7a65c5ae366ade0abe622944855b2f18e896c4/YARA%20Rules.md) 
