@@ -1,7 +1,7 @@
 ## Cybersecurity Training
-
+___
 **Warning:** *Some of these resources cost money. Some subscription based others are one-time buys*
-
+___
 ### Books
 
 - [BTFM - Blue Team Field Manual](https://a.co/d/1I7gxKe) - Blue team commands and techniques. Release 2017.
