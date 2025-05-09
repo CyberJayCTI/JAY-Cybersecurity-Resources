@@ -1,5 +1,5 @@
 ### Operating Systems
-
+___
 #### Cybersecurity OS
 - [Arch Linux](https://archlinux.org/) - A lightweight and flexible Linux distribution that tries to Keep It Simple. Emphasis on appealing to experienced users. \(Alot more configuration on the users end)
 
