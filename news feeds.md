@@ -25,6 +25,7 @@
 #### Alerts and Advisories
 - [CISA](https://www.cisa.gov/news-events/cybersecurity-advisories/) - In-depth reports covering a specific cybersecurity issue.
 
+- [FBI](https://www.cisa.gov/stopransomware/official-alerts-statements-fbi) - Official FBI updates to help stakeholders guard against the ever-evolving ransomware threat environment. 
 
 #### Paid Services
 - [Feedly](https://feedly.com/threat-intelligence/) - Topic and trend tracker using AI \(paid version).
