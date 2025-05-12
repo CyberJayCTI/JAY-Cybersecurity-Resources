@@ -15,7 +15,9 @@ ___
 
 - [GBHackers](https://gbhackers.com/) - Cybersecuirty news platform. 
 
-- [Hacker News](https://thehackernews.com/) - Insight on cybersecurity and hacking news. 
+- [Hacker News](https://thehackernews.com/) - Insight on cybersecurity and hacking news.
+
+- [Rapid7](https://www.rapid7.com/blog/tag/emergent-threat-response/) - Tagged Emergent Threat Response blog by RAPID7.  
 
 - [Security List](https://securelist.com/) - Kaspersky's threat research and reports.
 
