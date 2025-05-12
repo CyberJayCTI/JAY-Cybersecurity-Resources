@@ -23,6 +23,8 @@ ___
 
 - [Security Week](https://www.securityweek.com/category/threat-intelligence/) - Covers latest cybersecurity news, trends, and technology.
 
+- [The Sec Master](https://thesecmaster.com/blog) - Best practices, How to, and more blog.  
+
 - [Zscaler Blog](https://www.zscaler.com/blogs/) - Zscaler updates on security research, products, solutions and more.
 
 
