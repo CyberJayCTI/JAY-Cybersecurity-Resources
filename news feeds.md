@@ -17,11 +17,13 @@ ___
 
 - [Hacker News](https://thehackernews.com/) - Insight on cybersecurity and hacking news.
 
-- [Rapid7](https://www.rapid7.com/blog/tag/emergent-threat-response/) - Tagged Emergent Threat Response blog by RAPID7.  
+- [Rapid7 Blog](https://www.rapid7.com/blog/tag/emergent-threat-response/) - Tagged Emergent Threat Response.
 
 - [Security List](https://securelist.com/) - Kaspersky's threat research and reports.
 
-- [Security Week](https://www.securityweek.com/category/threat-intelligence/) - Covers latest cybersecurity news, trends, and technology. 
+- [Security Week](https://www.securityweek.com/category/threat-intelligence/) - Covers latest cybersecurity news, trends, and technology.
+
+- [Zscaler Blog](https://www.zscaler.com/blogs/) - Zscaler updates on security research, products, solutions and more.
 
 
 #### Alerts and Advisories
