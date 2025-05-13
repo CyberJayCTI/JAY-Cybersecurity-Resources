@@ -37,6 +37,8 @@ ___
 - [Cyber Defender](https://cyberdefenders.org/) - Blue team training platform for SOC analysts, threat hunters, security blue teams and DFIR professionals to advance CyberDefense skills.
 
 - [Hack The Box](https://www.hackthebox.com/) - Online platform that provides cybersecurity enthusiasts and professionals with virtual labs and challenges to practice penetration testing and ethical hacking skills in a safe, gamified environment.
+
+-  [Labex.io](https://labex.io/) - 
   
 - [Lets Defend](https://letsdefend.io/) - Interactive cybersecurity platform that offers real-world, hands-on Security Operations Center (SOC) training, allowing users to practice incident response and threat detection skills.
 
