@@ -19,4 +19,6 @@ ___
   -  APT 1 is a Chinese cyber espionage group linked to Unit 61398 of the People’s Liberation Army (PLA). It was publicly exposed in 2013 by cybersecurity firm Mandiant, which released a landmark report detailing APT1's extensive cyber campaigns against a wide range of industries worldwide.
 
 ### Sources
-- MITRE ATT&CK Groups - https://attack.mitre.org/groups/
+- [MITRE ATT&CK Groups](https://attack.mitre.org/groups/)
+
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/actors)
