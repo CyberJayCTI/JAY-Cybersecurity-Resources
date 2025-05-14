@@ -1,5 +1,7 @@
 ## Blue Team Tools
 ___
+**Warning:** *Some of these resources cost money. Some subscription based others are one-time buys*
+___
 ### Digital Forensics Tools
 
 - [Autopsy](https://www.autopsy.com) - Digital forensics tool that helps investigators analyze hard drives, smartphones, and other storage devices to recover and examine evidence such as deleted files, internet history, emails, and metadata.
