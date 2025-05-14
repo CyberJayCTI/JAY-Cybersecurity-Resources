@@ -12,7 +12,7 @@ ___
 
 ### Threat Tools
 
-- [Google Threat Intelligence Tool](https://cloud.google.com/security/products/threat-intelligence) - Cybersecurity tool designed to provide real-time threat data, helping organizations detect, analyze, and respond to cyber threats more effectively using insights from Google’s vast global infrastructure. 💲
+- [Google Threat Intelligence Tool](https://cloud.google.com/security/products/threat-intelligence) - Cybersecurity tool designed to provide real-time threat data, helping organizations detect, analyze, and respond to cyber threats more effectively using insights from Google’s vast global infrastructure. 
 
 - [Talos Intelligence Search](https://talosintelligence.com/reputation_center) - Cisco Talos reputation center to check IPs, Domains, URLs, File Hashes
 
@@ -44,4 +44,4 @@ ___
 
 - [ELK](https://www.elastic.co/elastic-stack) - ELK Stack—Elasticsearch, Logstash, and Kibana—is a set of tools used to collect, process, search, and visualize log and event data in real time for monitoring and analysis.
 
-- [Splunk](https://www.splunk.com/) - Data platform that collects, indexes, and analyzes machine-generated data to provide real-time insights for IT operations, security, and business intelligence. 💲
+- [Splunk](https://www.splunk.com/) - Data platform that collects, indexes, and analyzes machine-generated data to provide real-time insights for IT operations, security, and business intelligence. 
