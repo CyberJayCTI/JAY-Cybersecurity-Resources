@@ -1,27 +1,14 @@
 ## Documentation
-__
+___
 
 ### Playbooks
-When it comes down to playbooks these should be helpful guides on what to do when stuck, not LAW. A good analyst can work on the fly and beyond all the bueracracy. The threat waits for no one. Don't let procedure be the reason the bad guys win!
-___
-
-#### Documents
-
-#### Websites
-
-___
 
 ### Policy 
-
-#### Documents
 
 #### Websites
 
 - [SANS Templates](https://www.sans.org/information-security-policy/)  - Library of free cybersecurity policy templates to help organizations quickly define, document, and deploy key cybersecurity policies.
-
-
-___
-
+  
 ### Reports
 
 #### Documents
@@ -30,14 +17,9 @@ ___
 
 - [Security Report Template](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/b2d1d092a148a5e66fc5aab5a31ffb179e7cfbf7/documents/Security%20Alert%20Template.docx) - CVE report template 
 
-#### Websites
-
-___
 
 ### Standard Operating Procedure 
 
 #### Documents
 
 - [Incidnet Response SOP](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/f03eee98edaa00c37431b0945f813bcc87987dde/documents/Incident%20Response%20SOP.docx) - Incident Response SOP example
-
-#### Websites
