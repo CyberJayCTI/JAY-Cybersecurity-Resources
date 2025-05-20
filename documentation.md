@@ -9,6 +9,8 @@ ___
 
 #### Websites
 
+___
+
 ### Policy 
 
 #### Documents
@@ -16,6 +18,9 @@ ___
 #### Websites
 
 - [SANS Templates](https://www.sans.org/information-security-policy/)  - Library of free cybersecurity policy templates to help organizations quickly define, document, and deploy key cybersecurity policies.
+
+
+___
 
 ### Reports
 
@@ -26,6 +31,8 @@ ___
 - [Security Report Template](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/b2d1d092a148a5e66fc5aab5a31ffb179e7cfbf7/documents/Security%20Alert%20Template.docx) - CVE report template 
 
 #### Websites
+
+___
 
 ### Standard Operating Procedure 
 
