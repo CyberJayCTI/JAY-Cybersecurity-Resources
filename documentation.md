@@ -1,5 +1,5 @@
 ## Documentation
-___
+__
 
 ### Playbooks
 When it comes down to playbooks these should be helpful guides on what to do when stuck, not LAW. A good analyst can work on the fly and beyond all the bueracracy. The threat waits for no one. Don't let procedure be the reason the bad guys win!
