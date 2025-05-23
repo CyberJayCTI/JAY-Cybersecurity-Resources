@@ -15,10 +15,10 @@ ___
 - [RedHat Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) - A stable, high-performance Linux platform with built-in security and management features to help you run critical workloads anywhere in the hybrid cloud.
 
 #### Other
-- [Docker](https://www.docker.com/)
+- [Docker](https://www.docker.com/) - Open-source platform that enables developers to automate the deployment, scaling, and management of applications using lightweight, portable containers that package software with all its dependencies.
 
-- [Kubernetes](https://kubernetes.io/)
+- [Kubernetes](https://kubernetes.io/) - Open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications across clusters of machines.
 
-- [VirtualBox](https://www.virtualbox.org/)
+- [VirtualBox](https://www.virtualbox.org/) - A free and open-source virtualization software that allows users to run multiple operating systems simultaneously on a single physical machine by creating and managing virtual machines.
 
-- [VMware](https://www.vmware.com/)
+- [VMware](https://www.vmware.com/) - Virtualization and cloud computing software provider that enables users to run multiple operating systems and applications on a single physical machine through the use of virtual machines.
