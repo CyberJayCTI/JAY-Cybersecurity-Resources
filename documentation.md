@@ -28,4 +28,4 @@ ___
 
 - [Incident Response SOP](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/f03eee98edaa00c37431b0945f813bcc87987dde/documents/Incident%20Response%20SOP.docx) - Incident Response SOP example
 
-- [Cyber Triage]() - Cyber Triage Example
+- [Cyber Triage](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/6d212d194185d7d8cdfc129775e1576dbba482de/documents/Cyber%20Triage.docx) - Cyber Triage Example
