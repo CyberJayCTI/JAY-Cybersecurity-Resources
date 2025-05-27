@@ -3,6 +3,10 @@ ___
 
 ### Playbooks
 
+#### Documents
+
+- [Host Analyst Inital Check](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/59e9ec3497e6c772fe71d8af5625bf805a762770/documents/Host%20Analyst%20Initial%20Check.docx) - Basics every host analyst should check / know to check.
+
 ### Policy 
 
 #### Websites
