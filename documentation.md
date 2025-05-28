@@ -5,7 +5,9 @@ ___
 
 #### Documents
 
-- [Host Analyst Inital Check](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/59e9ec3497e6c772fe71d8af5625bf805a762770/documents/Host%20Analyst%20Initial%20Check.docx) - Basics every host analyst should check / know to check.
+- [Host Analyst Initial Check](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/59e9ec3497e6c772fe71d8af5625bf805a762770/documents/Host%20Analyst%20Initial%20Check.docx) - Basics every host analyst should check / know to check.
+
+- [Network Analyst Initial Check](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/49ed81d83b5e17c15e5a642fe6342f23db4252ac/documents/Network%20Analyst%20Initial%20Check.docx) - Basics every network analyst should check / know to check. 
 
 ### Policy 
 
