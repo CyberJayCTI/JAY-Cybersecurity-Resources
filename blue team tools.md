@@ -40,7 +40,9 @@ ___
 
 ### Risk Management Tools
 
-- [CFTID](https://center-for-threat-informed-defense.github.io/) - Risk Management Framework controls that are mapped to the MITRE ATT&CK TTPs
+- [Mapping Editor](https://center-for-threat-informed-defense.github.io/mappings-editor/?utm_source=ctidio&utm_medium=shortlink) - MITRE Mapping Editor for mapping, MITRE ATT&CK TTPs to different frameworks.
+
+- [Mappings Explorer](https://center-for-threat-informed-defense.github.io/mappings-explorer/) - Enables cyber defenders the knowledge on how security controls and capabilities map onto the adversary behaviors in MITRE ATT&CK. 
 
 ### SIEM
 
