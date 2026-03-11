@@ -21,7 +21,7 @@ ___
 
 - [Incident Report Template](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/ac618f4d885f6b30d3ba7e79a7fea99ecea220b1/documents/Cyber%20Threat%20Intelligence%20Incident%20Report%20Template.docx) - Cybersecurity incident report template
 
-- [Security Report Template](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/b2d1d092a148a5e66fc5aab5a31ffb179e7cfbf7/documents/Security%20Alert%20Template.docx) - CVE report template 
+- [CVE Report Template](https://github.com/CyberJayCTI/JAY-Cybersecurity-Resources/blob/b2d1d092a148a5e66fc5aab5a31ffb179e7cfbf7/documents/Security%20Alert%20Template.docx) - CVE report template 
 
 
 ### Standard Operating Procedure 
